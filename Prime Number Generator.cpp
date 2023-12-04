@@ -3,7 +3,7 @@ using namespace std;
 
 int main()
 {
-	int n, i, j, prime, composite;
+	int n = 0, i, j, prime = 0, composite;
 	if (n <= 100 || n == prime)
 	{
 		cout << "Enter any number = ";
